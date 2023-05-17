@@ -10,7 +10,6 @@ pacman一键更换国内源
 (几个国内源都加上，前后顺序有优先级区别)
 ```
 #manjaro国内源
-Server = https://mirrors.sonic.net/manjaro/arm-stable/$repo/$arch
 Server = https://mirrors.ustc.edu.cn/manjaro/arm-stable/$repo/$arch
 Server = https://mirrors.hit.edu.cn/manjaro/arm-stable/$repo/$arch
 Server = http://mirrors.163.com/archlinuxarm/aarch64/$repo
