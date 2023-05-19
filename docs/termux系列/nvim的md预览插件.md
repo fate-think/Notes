@@ -39,7 +39,7 @@ use({ "iamcco/markdown-preview.nvim", run = "cd app && npm install", setup = fun
  
  &nbsp;
  
-> 注意!  
+- 注意!  
 github上提供了几种方法，  
 不要使用以下这种方法，会造成无法预览的结果   
 
