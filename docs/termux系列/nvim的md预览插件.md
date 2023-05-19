@@ -1,26 +1,22 @@
 > 前言  
 nvim可以通过安装插件,    
 来实现markdown实时预览  
-
-&emsp;
+<br/>
 
 markdown-preview.nvim插件  
 [开源地址](https://github.com/iamcco/markdown-preview.nvim)
-
-&emsp;
+<br/>
 
 > 测试环境  
 termux
-
-&emsp;
+<br/>
 
 ## 安装依赖  
 ```
 pkg install nodejs-lts
 npm install -g yarn
 ```
-
-&emsp;
+<br/>
 
 ## 编辑plugins.lua  
 (文件一般位于~/.config/nvim/lua/目录)  
@@ -28,22 +24,19 @@ plugins.lua里加入以下代码
 ```
 use({ "iamcco/markdown-preview.nvim", run = "cd app && npm install", setup = function() vim.g.mkdp_filetypes = { "markdown" } end, ft = { "markdown" }, })
 ```
-
-&emsp;
+<br/>
 
 ## 安装插件  
 打开nvim，运行  
 `:PackerInstall`
-
-&emsp;
+<br/>
 
 ## 具体使用方法  
 开启Mardown预览  
 `:MarkdownPreview`   
 关闭Mardown预览  
 `:MarkdownPreviewStop`
- 
-&emsp;
+ <br/>
 
 > 注意!  
 > github上提供了几种方法，  
