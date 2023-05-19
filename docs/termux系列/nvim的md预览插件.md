@@ -12,8 +12,6 @@ markdown-preview.nvim插件
 > 测试环境  
 termux  
 
-<br/>
-
 ## 安装依赖  
 ```
 pkg install nodejs-lts
@@ -36,7 +34,8 @@ use({ "iamcco/markdown-preview.nvim", run = "cd app && npm install", setup = fun
 `:MarkdownPreview`   
 关闭Mardown预览  
 `:MarkdownPreviewStop`  
- 
+
+&nbsp;
 
 > 注意!  
 github上提供了几种方法，  
