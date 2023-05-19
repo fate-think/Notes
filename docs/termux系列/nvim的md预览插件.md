@@ -37,7 +37,7 @@ use({ "iamcco/markdown-preview.nvim", run = "cd app && npm install", setup = fun
 关闭Mardown预览  
 `:MarkdownPreviewStop`  
  
- <br/>  
+ &nbsp;
  
 > 注意!  
 github上提供了几种方法，  
