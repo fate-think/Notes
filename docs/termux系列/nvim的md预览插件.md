@@ -2,7 +2,8 @@ markdown-preview.nvim插件
 [开源地址](https://github.com/iamcco/markdown-preview.nvim)
 
 测试环境  
-<font color=purple>安卓13 arm64 termux nvim-nightly</font>
+<u>安卓13 arm64 termux nvim-nightly
+</u>
 
 ## 安装依赖  
 ```
@@ -26,9 +27,9 @@ use({ "iamcco/markdown-preview.nvim", run = "cd app && npm install", setup = fun
 关闭Mardown预览  
 `:MarkdownPreviewStop`
 
-#### 注意!
-#### github上提供了几种方法，
-#### 不要使用以下这种方法，会造成无法预览的结果
+> 注意!
+> github上提供了几种方法，
+> 不要使用以下这种方法，会造成无法预览的结果
 ```
 use({  
     "iamcco/markdown-preview.nvim",  
