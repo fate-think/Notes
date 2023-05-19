@@ -1,13 +1,16 @@
 > 前言  
 nvim可以通过安装插件,    
-来实现markdown实时预览
-
+来实现markdown实时预览  
+  
+  
 markdown-preview.nvim插件  
 [开源地址](https://github.com/iamcco/markdown-preview.nvim)
 
+  
 > 测试环境  
 termux
 
+  
 ## 安装依赖  
 ```
 pkg install nodejs-lts
@@ -29,7 +32,8 @@ use({ "iamcco/markdown-preview.nvim", run = "cd app && npm install", setup = fun
 `:MarkdownPreview`   
 关闭Mardown预览  
 `:MarkdownPreviewStop`
-
+  
+  
 > 注意!  
 > github上提供了几种方法，  
 > 不要使用以下这种方法，会造成无法预览的结果  
