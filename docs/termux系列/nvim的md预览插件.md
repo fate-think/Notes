@@ -18,24 +18,18 @@ termux
 ```
 pkg install nodejs-lts
 npm install -g yarn
-```  
-
-<br/>
+```    
 
 ## 编辑plugins.lua  
 (文件一般位于~/.config/nvim/lua/目录)  
 plugins.lua里加入以下代码  
 ```
 use({ "iamcco/markdown-preview.nvim", run = "cd app && npm install", setup = function() vim.g.mkdp_filetypes = { "markdown" } end, ft = { "markdown" }, })
-```  
-
-<br/>
+```     
 
 ## 安装插件  
 打开nvim，运行  
-`:PackerInstall`  
-
-<br/>
+`:PackerInstall`    
 
 ## 具体使用方法  
 开启Mardown预览  
