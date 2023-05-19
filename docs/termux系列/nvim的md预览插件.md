@@ -30,18 +30,19 @@ use({ "iamcco/markdown-preview.nvim", run = "cd app && npm install", setup = fun
 ```  
 
 <br/>
+
 ## 安装插件  
 打开nvim，运行  
 `:PackerInstall`  
 
-<br/>
+<br/>  
 ## 具体使用方法  
 开启Mardown预览  
 `:MarkdownPreview`   
 关闭Mardown预览  
 `:MarkdownPreviewStop`  
  
- <br/>
+ <br/>  
 > 注意!  
 > github上提供了几种方法，  
 > 不要使用以下这种方法，会造成无法预览的结果  
