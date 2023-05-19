@@ -5,8 +5,6 @@ nvim可以通过安装插件,
 markdown-preview.nvim插件  
 [开源地址](https://github.com/iamcco/markdown-preview.nvim)
 
-----
-
 > 测试环境  
 termux
 
