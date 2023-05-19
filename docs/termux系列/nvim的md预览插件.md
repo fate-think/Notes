@@ -29,6 +29,7 @@ use({ "iamcco/markdown-preview.nvim", run = "cd app && npm install", setup = fun
 ## 安装插件  
 打开nvim，运行  
 `:PackerInstall`
+
 <br/>
 
 ## 具体使用方法  
@@ -36,6 +37,7 @@ use({ "iamcco/markdown-preview.nvim", run = "cd app && npm install", setup = fun
 `:MarkdownPreview`   
 关闭Mardown预览  
 `:MarkdownPreviewStop`
+ 
  <br/>
 
 > 注意!  
