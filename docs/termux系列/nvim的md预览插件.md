@@ -3,14 +3,17 @@ nvim可以通过安装插件,
 来实现markdown实时预览  
 
 <br/>
+
 markdown-preview.nvim插件  
 [开源地址](https://github.com/iamcco/markdown-preview.nvim)  
 
 <br/>
+
 > 测试环境  
 termux  
 
 <br/>
+
 ## 安装依赖  
 ```
 pkg install nodejs-lts
@@ -18,6 +21,7 @@ npm install -g yarn
 ```  
 
 <br/>
+
 ## 编辑plugins.lua  
 (文件一般位于~/.config/nvim/lua/目录)  
 plugins.lua里加入以下代码  
