@@ -3,7 +3,7 @@
 
 
 ## 添加清华源
-(教程在这里https://mirrors.tuna.tsinghua.edu.cn/help/archlinuxarm/)
+(教程在这里https://mirrors.tuna.tsinghua.edu.cn/help/archlinuxarm/)   
 (注意termux容器里要用http，https会报错)
 ```
 Server = http://mirrors.tuna.tsinghua.edu.cn/archlinuxarm/$arch/$repo
