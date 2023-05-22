@@ -4,4 +4,6 @@
 
 <a href="#/linuxdistri/fedora">fedora</a>   
 <a href="#/linuxdistri/archlinux">archlinux</a>   
-<a href="#/linuxdistri/manjaro记录">manjaro</a>   
+<a href="#/linuxdistri/manjaro记录">manjaro</a>
+<br/>
+点击左下角 查看更多

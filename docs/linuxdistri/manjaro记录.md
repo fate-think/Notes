@@ -64,6 +64,7 @@ bash每次启动将会自动执行命令，
 `pacman -Su`   
 同步软件包数据库   
 `pacman -Sy`   
+)   
 
 搜索软件   
 `pacman -Ss 关键字`
