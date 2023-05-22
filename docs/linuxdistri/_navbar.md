@@ -4,4 +4,4 @@
 - [linux发行版](/linuxdistri/)
     - [fedora](linuxdistri/fedora.md)
     - [archlinux](linuxdistri/archlinux.md)
-    - [manjaro](linuxdistri/manjaro记录.md)
+    - [manjaro](linuxdistri/manjaro.md)
