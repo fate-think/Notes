@@ -1,6 +1,9 @@
 # manjaro记录
 # majaro教程
+> 日期 2023/05/21  
+> 时间 下午   
 
+<br/>
 ## 更换国内源
 [更换国内源参考教程](https://cloud.tencent.com/developer/article/1948468)
 
