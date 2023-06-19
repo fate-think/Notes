@@ -16,7 +16,7 @@ Shiori 书签/稍后阅读应用
 
 ## 教程开始
 - 从 release 页面下载最新的包，     
-解压，把路径加到环境变量里
+解压，chmod +x 给执行权限，把路径加到环境变量里
 
 - 开启网站服务   
 `shiori serve`   
@@ -24,7 +24,7 @@ Shiori 书签/稍后阅读应用
 `shiori serve -p 自定义端口`   
 (默认8080端口)   
 ( 后台运行命令   
-`shiori serve -p 端口 &>/dev/null `  )
+`shiori serve -p 端口 &>/dev/null & `  )
 
 - 浏览器访问http://你的ip:8080 ,   
 输入默认用户名 密码，登录。   
